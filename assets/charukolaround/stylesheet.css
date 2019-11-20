@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Charukola Round Head Unicode';
+    src: url('subset-CharukolaRoundHeadUnicode-BoldItalic.woff2') format('woff2'),
+        url('subset-CharukolaRoundHeadUnicode-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Charukola Round Head Unicode';
+    src: url('subset-CharukolaRoundHeadUnicode-Bold.woff2') format('woff2'),
+        url('subset-CharukolaRoundHeadUnicode-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Charukola Round Head Unicode';
+    src: url('subset-CharukolaRoundHeadUnicode-Italic.woff2') format('woff2'),
+        url('subset-CharukolaRoundHeadUnicode-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Charukola Round Head Unicode';
+    src: url('subset-CharukolaRoundHeadUnicode.woff2') format('woff2'),
+        url('subset-CharukolaRoundHeadUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
